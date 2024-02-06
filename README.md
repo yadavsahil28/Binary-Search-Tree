@@ -1,7 +1,6 @@
 # Binary-Search-Tree
 This repository contains programming questions based on Binary Search Trees.
 - PreOrder/ PostOrder/ Inorder / LvlOrder Traversal.
-- Find a value in a BST: https://leetcode.com/problems/search-in-a-binary-search-tree/
 - Convert Sorted Array to Binary Search Tree: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 - Search in a Binary Search Tree: https://leetcode.com/problems/search-in-a-binary-search-tree/
 - Insert into a Binary Search Tree: https://leetcode.com/problems/insert-into-a-binary-search-tree/
@@ -19,4 +18,3 @@ This repository contains programming questions based on Binary Search Trees.
 - Convert BST to Greater Tree: https://leetcode.com/problems/convert-bst-to-greater-tree/
 - Balance a Binary Search Tree: https://leetcode.com/problems/balance-a-binary-search-tree/
 - Binary Search Tree to Greater Sum Tree: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
-- Construct Binary Search Tree from Preorder Traversal: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
