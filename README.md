@@ -13,8 +13,6 @@ This repository contains programming questions based on Binary Search Trees.
 - Convert a normal BST into a Balanced BST:https://leetcode.com/problems/balance-a-binary-search-tree/
 - Merge two BST :https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
 - Find Kth smallest element in a BST:https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-- Balance a BST: https://leetcode.com/problems/balance-a-binary-search-tree/
 - Maximum Sum BST in Binary Tree: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 - Convert BST to Greater Tree: https://leetcode.com/problems/convert-bst-to-greater-tree/
-- Balance a Binary Search Tree: https://leetcode.com/problems/balance-a-binary-search-tree/
 - Binary Search Tree to Greater Sum Tree: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
